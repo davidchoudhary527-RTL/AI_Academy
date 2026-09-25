@@ -1,0 +1,6 @@
+{
+  "name": "Agentic AI Academy",
+  "description": "Interactive learning workspace and simulator for Antigravity & autonomous AI agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
